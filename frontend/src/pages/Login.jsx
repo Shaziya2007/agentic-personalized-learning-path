@@ -99,7 +99,7 @@ export const Login = () => {
           <div className="form-group">
             <div style={{ display: "flex", justifyContent: "space-between" }}>
               <label className="form-label" htmlFor="password">Password</label>
-              <span style={{ fontSize: "0.78rem", color: "var(--primary)" }}>password</span>
+              <span style={{ fontSize: "0.78rem", color: "var(--primary)" }}></span>
             </div>
             <input
               id="password"
